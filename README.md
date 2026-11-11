@@ -1,10 +1,12 @@
 <div align="center">
 
+![Portfolio cover](assets/portfolio-cover.svg)
+
 # Goodness Feranmi Ogunkunle
 
-### Data Analyst · Power BI Developer · Business Intelligence
+### Data Analyst | Power BI Developer | Business Intelligence
 
-*Turning data into insights that support smarter business decisions.*
+*Turning data into clear insights that support smarter business decisions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogunkunle-goodness-b47186412/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godspeedxreal)
@@ -13,18 +15,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I am an aspiring **Data Analyst** with a background in Animal Science and a growing focus on data analytics and business intelligence. I enjoy working with data to uncover patterns, understand performance, and communicate findings through clear, interactive visualizations.
+I am a data analytics professional in development with an academic background in **Animal Science** and a strong interest in **data analytics and business intelligence**. I enjoy transforming raw data into meaningful information, identifying patterns and performance trends, and presenting findings through clear, interactive dashboards.
 
-My work focuses on the analytical process—from preparing and exploring datasets to developing dashboards and presenting practical insights that can inform business decisions.
+I approach each project with a focus on the full analytical workflow: understanding the business question, preparing and exploring the data, building useful visualizations, and communicating findings that can support informed decisions.
 
-- 📊 Building interactive reports and business dashboards.
-- 🧹 Practising data cleaning, transformation, and analysis.
-- 📈 Exploring trends, performance metrics, and business opportunities.
-- 🌱 Continuously strengthening my skills through hands-on projects and learning.
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -35,53 +32,55 @@ My work focuses on the analytical process—from preparing and exploring dataset
 
 </div>
 
-| Skill Area | Tools / Capabilities |
+| Area | Skills and tools |
 |---|---|
-| Spreadsheet Analysis | Microsoft Excel, formulas, data cleaning |
-| Business Intelligence | Power BI, interactive dashboards, KPI reporting |
-| Data Modelling | Relationships, measures, calculated columns, DAX |
+| Spreadsheet analysis | Microsoft Excel, formulas, data cleaning and organization |
+| Business intelligence | Power BI, interactive dashboards and KPI reporting |
+| Data modelling | Table relationships, DAX measures and calculated columns |
 | Querying | SQL fundamentals and data retrieval |
-| Communication | Data visualization, reporting, Microsoft PowerPoint |
+| Reporting | Data visualization, insight communication and Microsoft PowerPoint |
 
-## 📂 Featured Projects
+## Featured Project
 
-### 🛒 Retail Business Performance Dashboard
+### Retail Business Performance Dashboard
 
-An end-to-end business intelligence project designed to explore retail performance and present business metrics in an interactive dashboard.
+An end-to-end business intelligence project focused on exploring retail transactions and communicating business performance through an interactive Power BI dashboard.
 
-**Project focus:**
-- Retail sales and revenue performance.
-- KPI monitoring and trend analysis.
-- Interactive report navigation and filtering.
-- Communicating findings to support business decisions.
+**Key areas of analysis**
+- Sales and revenue performance.
+- KPI monitoring and business performance trends.
+- Product, customer and regional performance.
+- Interactive filtering and report navigation.
+- Practical insights to support business decisions.
 
-🔗 **[View Project Repository](https://github.com/Godspeedxreal/Retail-Business-Performance-Dashboard)**
+**[View the Retail Business Performance Dashboard](https://github.com/Godspeedxreal/Retail-Business-Performance-Dashboard)**
 
-*Additional projects and case studies will be featured here as they are completed.*
+More projects and case studies will be added as they are completed.
 
-## 💡 Analytical Focus
+## My Analytical Approach
 
-- **Data preparation:** cleaning, structuring, and validating datasets.
-- **Exploratory analysis:** identifying patterns, trends, and performance gaps.
-- **Dashboard development:** presenting KPIs and insights through clear visual reports.
-- **Business insight:** translating analysis into practical recommendations.
+1. **Understand** — define the business question and identify the information needed.
+2. **Prepare** — clean, organize and validate the dataset.
+3. **Analyze** — explore patterns, trends and performance gaps.
+4. **Visualize** — build clear reports and interactive dashboards.
+5. **Communicate** — explain findings and present practical recommendations.
 
-## 📚 Currently Developing
+## Currently Developing
 
-- Advanced Excel techniques and analytical workflows.
-- Power BI data modelling, DAX, and dashboard design.
-- SQL querying for data analysis.
-- Data storytelling and business intelligence practices.
+- Advanced Excel analysis and reporting techniques.
+- Power BI data modelling, DAX and dashboard design.
+- SQL querying and data analysis.
+- Data storytelling and business intelligence.
 
-## 🤝 Let's Connect
+## Let's Connect
 
-I welcome opportunities to learn, collaborate on data projects, and connect with professionals in analytics and business intelligence.
+I am open to entry-level data analytics opportunities, project collaborations, mentorship and professional connections within the data community.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ogunkunle_Goodness_Feranmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogunkunle-goodness-b47186412/)
 [![GitHub](https://img.shields.io/badge/GitHub-Godspeedxreal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Godspeedxreal)
 
-**Thank you for visiting my portfolio!**
+**Thank you for visiting my portfolio.**
 
 </div>
