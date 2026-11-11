@@ -1,86 +1,97 @@
 <div align="center">
 
-![Portfolio cover](assets/portfolio-cover.svg)
+<img src="assets/portfolio-cover.svg" width="100%" alt="Goodness Feranmi — Data Analytics Portfolio"/>
 
-# Goodness Feranmi Ogunkunle
+# GOODNESS FERANMI OGUNKUNLE
 
-### Data Analyst | Power BI Developer | Business Intelligence
+### DATA ANALYST · EXCEL · POWER BI · BUSINESS INTELLIGENCE
 
-*Turning data into clear insights that support smarter business decisions.*
+**Turning data into clear insights that support smarter business decisions.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogunkunle-goodness-b47186412/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godspeedxreal)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogunkunle-goodness-b47186412)
+[![GitHub](https://img.shields.io/badge/GITHUB-Explore%20Projects-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godspeedxreal?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## PROFILE
 
-I am a data analytics professional in development with an academic background in **Animal Science** and a strong interest in **data analytics and business intelligence**. I enjoy transforming raw data into meaningful information, identifying patterns and performance trends, and presenting findings through clear, interactive dashboards.
+I am an aspiring **Data Analyst** with an academic background in Animal Production and Health and a growing focus on data analytics and business intelligence.
 
-I approach each project with a focus on the full analytical workflow: understanding the business question, preparing and exploring the data, building useful visualizations, and communicating findings that can support informed decisions.
+I enjoy working with data to understand performance, identify trends, answer business questions, and communicate findings through clear reports and dashboards. I approach each project with a focus on accuracy, useful analysis, and practical recommendations.
 
-## Technical Skills
+**Location:** Ibadan, Oyo State, Nigeria  
+**Career interests:** Junior Data Analyst · Business Intelligence · Reporting & Dashboard Development
 
-<div align="center">
+## TECHNICAL TOOLKIT
 
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![DAX](https://img.shields.io/badge/DAX-Data_Modeling-6950A1?style=for-the-badge)](https://learn.microsoft.com/dax/)
-
-</div>
-
-| Area | Skills and tools |
+| Area | Tools and skills |
 |---|---|
-| Spreadsheet analysis | Microsoft Excel, formulas, data cleaning and organization |
-| Business intelligence | Power BI, interactive dashboards and KPI reporting |
-| Data modelling | Table relationships, DAX measures and calculated columns |
-| Querying | SQL fundamentals and data retrieval |
-| Reporting | Data visualization, insight communication and Microsoft PowerPoint |
+| Spreadsheet analysis | Microsoft Excel, formulas, PivotTables, PivotCharts |
+| Business intelligence | Power BI, report design, KPI dashboards |
+| Data calculations | DAX measures and calculated columns |
+| Data preparation | Cleaning, transformation, validation |
+| Querying | SQL fundamentals |
+| Reporting | Data visualization, insight communication, PowerPoint |
 
-## Featured Project
+## FEATURED PROJECTS
 
-### Retail Business Performance Dashboard
+### 01. Retail Business Performance Dashboard
 
-An end-to-end business intelligence project focused on exploring retail transactions and communicating business performance through an interactive Power BI dashboard.
+**Tools:** Microsoft Excel · Power Pivot · DAX · PivotTables · PivotCharts
 
-**Key areas of analysis**
-- Sales and revenue performance.
-- KPI monitoring and business performance trends.
-- Product, customer and regional performance.
-- Interactive filtering and report navigation.
-- Practical insights to support business decisions.
+An interactive retail performance dashboard designed to monitor key business metrics and explore sales performance across different dimensions.
 
-**[View the Retail Business Performance Dashboard](https://github.com/Godspeedxreal/Retail-Business-Performance-Dashboard)**
+**What it covers**
+- Total sales, profit, profit margin, and target achievement
+- Monthly sales trends and regional performance
+- Product category and sales channel comparisons
+- Sales representative performance and product returns
+- Interactive slicers for year, region, category, and channel
 
-More projects and case studies will be added as they are completed.
+[**View project repository →**](https://github.com/Godspeedxreal/Retail-Business-Performance-Dashboard)
 
-## My Analytical Approach
+### 02. Excel Sales Tracking Analysis
 
-1. **Understand** — define the business question and identify the information needed.
-2. **Prepare** — clean, organize and validate the dataset.
-3. **Analyze** — explore patterns, trends and performance gaps.
-4. **Visualize** — build clear reports and interactive dashboards.
-5. **Communicate** — explain findings and present practical recommendations.
+**Tools:** Microsoft Excel · PivotTables · Charts
 
-## Currently Developing
+An analysis of sales transactions to explore revenue, profit, product categories, regional performance, monthly trends, and quantity sold.
 
-- Advanced Excel analysis and reporting techniques.
-- Power BI data modelling, DAX and dashboard design.
-- SQL querying and data analysis.
-- Data storytelling and business intelligence.
+[**View project repository →**](https://github.com/Godspeedxreal/my-excel-project)
 
-## Let's Connect
+### 03. More projects in development
 
-I am open to entry-level data analytics opportunities, project collaborations, mentorship and professional connections within the data community.
+I am building additional Power BI and SQL case studies. I will publish each project with its business question, analytical process, visuals, and key findings as it is completed.
+
+[**Explore all repositories →**](https://github.com/Godspeedxreal?tab=repositories)
+
+## MY ANALYTICAL PROCESS
+
+| Step | Approach |
+|---|---|
+| 01 — Define | Understand the business question and desired outcome |
+| 02 — Prepare | Clean, organize, and validate the data |
+| 03 — Analyze | Explore trends, patterns, and performance |
+| 04 — Visualize | Present results through clear KPIs and charts |
+| 05 — Recommend | Communicate findings and practical next steps |
+
+## CURRENT DEVELOPMENT
+
+- Strengthening Power BI, DAX, and data modelling skills
+- Improving SQL querying and analysis
+- Practising dashboard design and data storytelling
+- Building portfolio projects around real business questions
+
+## CONTACT
+
+I'm open to entry-level data analytics opportunities, internships, freelance projects, mentorship, and collaborations.
+
+- **LinkedIn:** [Ogunkunle Goodness Feranmi](https://www.linkedin.com/in/ogunkunle-goodness-b47186412)
+- **GitHub:** [@Godspeedxreal](https://github.com/Godspeedxreal)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ogunkunle_Goodness_Feranmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogunkunle-goodness-b47186412/)
-[![GitHub](https://img.shields.io/badge/GitHub-Godspeedxreal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Godspeedxreal)
-
-**Thank you for visiting my portfolio.**
+*Curious about data. Focused on insight. Driven by impact.*
 
 </div>
