@@ -101,7 +101,7 @@ I am developing additional Power BI and SQL case studies. New projects will be p
 
 ## 🤝 Let's Connect
 
-I welcome opportunities to learn, collaborate, and contribute to data-focused projects. I am interested in **entry-level Data Analyst opportunities, internships, freelance projects, and professional collaborations**.
+I welcome opportunities to contribute to data-focused work, collaborate with teams, and solve practical business problems. I am open to **Data Analyst opportunities, freelance projects, and professional collaborations**.
 
 <div align="center">
 
