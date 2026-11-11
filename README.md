@@ -103,6 +103,18 @@ I am developing additional Power BI and SQL case studies. New projects will be p
 
 I welcome opportunities to learn, collaborate, and contribute to data-focused projects. I am interested in **entry-level Data Analyst opportunities, internships, freelance projects, and professional collaborations**.
 
+<div align="center">
+
+<a href="mailto:goodnesspauline@gmail.com"><img src="https://img.shields.io/badge/Email-goodnesspauline%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/2349032063489"><img src="https://img.shields.io/badge/WhatsApp-%40Godspeed_xreal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="tel:+2349032063489"><img src="https://img.shields.io/badge/Call-%2B234%20903%20206%203489-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Phone 1"/></a>
+<a href="tel:+2347068789718"><img src="https://img.shields.io/badge/Call-%2B234%20706%20878%209718-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Phone 2"/></a>
+
+</div>
+
+- 📧 **Email:** [goodnesspauline@gmail.com](mailto:goodnesspauline@gmail.com)
+- 💬 **WhatsApp:** [@Godspeed_xreal](https://wa.me/2349032063489)
+- 📞 **Phone:** [+234 903 206 3489](tel:+2349032063489) · [+234 706 878 9718](tel:+2347068789718)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ogunkunle-goodness-b47186412)
 - 🧑‍💻 **GitHub:** [@Godspeedxreal](https://github.com/Godspeedxreal)
 
