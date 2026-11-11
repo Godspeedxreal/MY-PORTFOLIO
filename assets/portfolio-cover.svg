@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="440" viewBox="0 0 1500 440" role="img" aria-labelledby="title desc">
+<title id="title">Goodness Feranmi Ogunkunle — Data Analytics Portfolio</title>
+<desc id="desc">A professional navy and blue data analytics banner with dashboard charts and the portfolio owner's name and tools.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset=".55" stop-color="#0b2340"/><stop offset="1" stop-color="#102f57"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#14385d"/><stop offset="1" stop-color="#0b1d33"/></linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#5b8db8" stroke-opacity=".12" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1500" height="440" rx="28" fill="url(#bg)"/><rect width="1500" height="440" rx="28" fill="url(#grid)"/>
+<circle cx="1320" cy="35" r="230" fill="#0ea5e9" opacity=".08"/><circle cx="145" cy="420" r="230" fill="#2563eb" opacity=".09"/>
+<path d="M0 350 C240 270 350 410 570 330 S930 270 1110 330 S1350 360 1500 260" fill="none" stroke="#22d3ee" stroke-opacity=".18" stroke-width="2"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <rect x="78" y="70" width="8" height="238" rx="4" fill="url(#accent)"/>
+  <text x="120" y="128" fill="#a5f3fc" font-size="22" font-weight="700" letter-spacing="5">DATA ANALYTICS PORTFOLIO</text>
+  <text x="116" y="205" fill="#f8fafc" font-size="56" font-weight="750">GOODNESS FERANMI</text>
+  <text x="116" y="270" fill="#f8fafc" font-size="56" font-weight="750">OGUNKUNLE</text>
+  <rect x="120" y="298" width="510" height="4" rx="2" fill="url(#accent)"/>
+  <text x="120" y="346" fill="#cbd5e1" font-size="24" font-weight="500">Excel  •  Power BI  •  DAX  •  SQL</text>
+  <text x="120" y="386" fill="#7dd3fc" font-size="18" letter-spacing="1.4">TURNING DATA INTO CLEAR, ACTIONABLE INSIGHTS</text>
+  <g transform="translate(820 72)">
+    <rect width="570" height="270" rx="22" fill="url(#panel)" stroke="#2c5b83" stroke-width="2"/>
+    <text x="34" y="42" fill="#dbeafe" font-size="17" font-weight="700" letter-spacing="2">BUSINESS PERFORMANCE</text>
+    <rect x="34" y="62" width="145" height="70" rx="10" fill="#0b2947" stroke="#24547c"/>
+    <rect x="194" y="62" width="145" height="70" rx="10" fill="#0b2947" stroke="#24547c"/>
+    <rect x="354" y="62" width="182" height="70" rx="10" fill="#0b2947" stroke="#24547c"/>
+    <text x="50" y="89" fill="#7dd3fc" font-size="12">TOTAL REVENUE</text><text x="50" y="116" fill="#fff" font-size="23" font-weight="700">KPI</text>
+    <text x="210" y="89" fill="#7dd3fc" font-size="12">GROWTH</text><text x="210" y="116" fill="#fff" font-size="23" font-weight="700">TRENDS</text>
+    <text x="370" y="89" fill="#7dd3fc" font-size="12">PERFORMANCE</text><text x="370" y="116" fill="#fff" font-size="23" font-weight="700">INSIGHTS</text>
+    <path d="M40 226H535" stroke="#54718c" stroke-opacity=".7"/>
+    <path d="M40 196H535 M40 166H535" stroke="#54718c" stroke-opacity=".25" stroke-dasharray="4 6"/>
+    <g fill="url(#accent)">
+      <rect x="65" y="186" width="34" height="40" rx="5"/><rect x="123" y="166" width="34" height="60" rx="5"/><rect x="181" y="178" width="34" height="48" rx="5"/><rect x="239" y="143" width="34" height="83" rx="5"/><rect x="297" y="157" width="34" height="69" rx="5"/><rect x="355" y="124" width="34" height="102" rx="5"/>
+    </g>
+    <path d="M425 203 L458 181 L490 190 L525 150" fill="none" stroke="#67e8f9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+    <g fill="#67e8f9"><circle cx="425" cy="203" r="5"/><circle cx="458" cy="181" r="5"/><circle cx="490" cy="190" r="5"/><circle cx="525" cy="150" r="5"/></g>
+  </g>
+  <g fill="#38bdf8" opacity=".9"><circle cx="1425" cy="85" r="4"/><circle cx="1450" cy="110" r="3"/><circle cx="1395" cy="125" r="3"/><circle cx="760" cy="80" r="3"/><circle cx="735" cy="105" r="4"/></g>
+</g></svg>
